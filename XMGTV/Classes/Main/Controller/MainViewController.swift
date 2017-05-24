@@ -17,6 +17,7 @@ class MainViewController: UITabBarController {
         addChildVc("Rank")
         addChildVc("Discover")
         addChildVc("Profile")
+        //sdfasdfasdfasdfasfas
     }
     
     fileprivate func addChildVc(_ storyName : String) {
